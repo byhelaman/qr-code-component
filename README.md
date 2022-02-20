@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/byhelaman/order-summary-component
-- Live Site URL: https://hungry-perlman-7ae2c1.netlify.app
+- Solution URL: https://github.com/byhelaman/qr-code-component
+- Live Site URL: https://vigorous-davinci-c65c4b.netlify.app
 
 ## My process
 
